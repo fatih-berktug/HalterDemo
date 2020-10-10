@@ -26,7 +26,38 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+
+              "src/assets/static/bower_components/jquery/dist/jquery.min.js",
+              "src/assets/static/loader/loader.js",
+              "src/assets/static/fieldChooser/js/jquery.lwMultiSelect.js",
+              "src/assets/static/bower_components/bootstrap/dist/js/bootstrap.min.js",
+                            "src/assets/static/bower_components/select2/dist/js/select2.full.min.js",
+                            "src/assets/static/plugins/input-mask/jquery.inputmask.js",
+                            "src/assets/static/plugins/input-mask/jquery.inputmask.date.extensions.js",
+                            "src/assets/static/plugins/input-mask/jquery.inputmask.extensions.js",
+                            "src/assets/static/bower_components/moment/min/moment.min.js",
+                            "src/assets/static/bower_components/bootstrap-daterangepicker/daterangepicker.js",
+                            "src/assets/static/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js",
+                            "src/assets/static/bower_components/bootstrap-datepicker/dist/locales/bootstrap-datepicker.tr.min.js",
+                            "src/assets/static/bower_components/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js",
+                            "src/assets/static/plugins/timepicker/bootstrap-timepicker.min.js",
+                            "src/assets/static/bower_components/datatables.net/js/jquery.dataTables.min.js",
+                            "src/assets/static/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js",
+                            "src/assets/static/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js",
+                            "src/assets/static/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js",
+                            "src/assets/static/plugins/jvectormap/jquery-jvectormap-world-mill-en.js",
+                            "src/assets/static/bower_components/chart.js/Chart.js",
+                            "src/assets/static/bower_components/jquery-slimscroll/jquery.slimscroll.min.js",
+                            "src/assets/static/bower_components/fastclick/lib/fastclick.js",
+                            "src/assets/static/dist/js/adminlte.min.js",
+                            "src/assets/static/dist/js/demo.js",
+                            "src/assets/static/dist/js/jquery.tagsinput.js",
+                            "src/assets/static/plugins/iCheck/icheck.min.js",
+                            "src/assets/static/dist/js/carousel.js",
+                            "src/assets/static/fieldChooser/js/jquery.lwMultiSelect.js",
+                            "src/assets/static/admin/js/canvas.js",
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +150,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SbsDemo"
+    }
+  },
+  "defaultProject": "SbsDemo",
+  "cli": {
+    "analytics": "c6e0a510-2ea4-4573-be6a-4899e9e5b789"
+  }
 }

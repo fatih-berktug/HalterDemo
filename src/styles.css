@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets//static/bower_components/bootstrap/dist/css/bootstrap.min.css";
+@import "assets/static/bower_components/font-awesome/css/font-awesome.min.css";
+@import "assets/static/bower_components/Ionicons/css/ionicons.min.css";
+@import "assets/static/plugins/iCheck/all.css";
+@import "assets/static/bower_components/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css";
+@import "assets/static/bower_components/select2/dist/css/select2.min.css";
+@import "assets/static/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css";
+@import "assets/static/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css";
+@import "assets/static/dist/css/AdminLTE.min.css";
+@import "assets/static/dist/css/carousel.css";
+@import "assets/static/dist/css/jquery.tagsinput.css";
+@import "assets/static/dist/css/checkbox.css";
+@import "assets/static/dist/css/skins/_all-skins.min.css";
+@import "assets/static/fieldChooser/css/jquery.lwMultiSelect.css";
+@import "assets/static/bower_components/jvectormap/jquery-jvectormap.css";
+@import "assets/static/loader/loader.css";
+@import "assets/static/bower_components/bootstrap-daterangepicker/daterangepicker.css";
+@import "assets/static/plugins/iCheck/square/blue.css";
